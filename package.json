@@ -1,0 +1,29 @@
+{
+  "name": "@tfoguenne/holidates",
+  "version": "1.0.0",
+  "description": "Blablabla",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/foguenne/node.js.git"
+  },
+  "author": "Thomas",
+  "license": "ISC",
+  "bin": {
+    "holidates": "./index.js"
+  },
+  "bugs": {
+    "url": "https://github.com/foguenne/node.js/issues"
+  },
+  "homepage": "https://github.com/foguenne/node.js#readme",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "chalk": "^2.4.2",
+    "country-list": "^2.2.0",
+    "figlet": "^1.2.3",
+    "ora": "^3.4.0"
+  }
+}
